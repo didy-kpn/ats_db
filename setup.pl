@@ -8,7 +8,7 @@ use utf8;
 use constant DB_NAME => "auto_trading_system.db";
 
 # DBバージョン
-use constant DB_VERSION => 1;
+use constant DB_VERSION => 2;
 
 # SQLファイル名
 use constant DIR_SQL => "sql";
